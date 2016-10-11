@@ -1,14 +1,14 @@
 {
-  "name": "react-scripts",
-  "version": "0.6.1",
-  "description": "Configuration and scripts for Create React App.",
-  "repository": "facebookincubator/create-react-app",
+  "name": "twijg-react-scripts",
+  "version": "0.6.3",
+  "description": "Configuration and scripts for Create React App, forked by Twijg IT.",
+  "repository": "twijg/create-react-app",
   "license": "BSD-3-Clause",
   "engines": {
     "node": ">=4"
   },
   "bugs": {
-    "url": "https://github.com/facebookincubator/create-react-app/issues"
+    "url": "https://github.com/twijg/create-react-app/issues"
   },
   "files": [
     ".babelrc",
@@ -53,13 +53,16 @@
     "http-proxy-middleware": "0.17.1",
     "jest": "15.1.1",
     "json-loader": "0.5.4",
+    "node-sass": "3.10.1",
     "object-assign": "4.1.0",
     "path-exists": "2.1.0",
     "postcss-loader": "0.13.0",
+    "precss": "1.4.0",
     "promise": "7.1.1",
     "react-dev-utils": "^0.2.1",
     "recursive-readdir": "2.1.0",
     "rimraf": "2.5.4",
+    "sass-loader": "4.0.2",
     "strip-ansi": "3.0.1",
     "style-loader": "0.13.1",
     "url-loader": "0.5.7",
@@ -106,13 +109,16 @@
     "http-proxy-middleware",
     "jest",
     "json-loader",
+    "node-sass",
     "object-assign",
     "path-exists",
     "postcss-loader",
+    "precss",
     "promise",
     "react-dev-utils",
     "recursive-readdir",
     "rimraf",
+    "sass-loader",
     "strip-ansi",
     "style-loader",
     "url-loader",
