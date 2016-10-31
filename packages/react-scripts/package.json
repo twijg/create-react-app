@@ -1,6 +1,6 @@
 {
   "name": "twijg-react-scripts",
-  "version": "0.6.3",
+  "version": "0.6.4",
   "description": "Configuration and scripts for Create React App, forked by Twijg IT.",
   "repository": "twijg/create-react-app",
   "license": "BSD-3-Clause",
